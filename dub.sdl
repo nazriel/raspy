@@ -1,0 +1,7 @@
+name "raspy"
+description "A simple vibe.d server application."
+copyright "Copyright © 2016, nazriel"
+authors "nazriel"
+dependency "vibe-d" version="~>0.7.23"
+versions "VibeDefaultMain"
+libs "z"
